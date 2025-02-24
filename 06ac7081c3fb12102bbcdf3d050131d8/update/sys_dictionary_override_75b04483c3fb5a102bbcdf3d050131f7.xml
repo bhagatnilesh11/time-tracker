@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>1</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_744126_customapp_device_request</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-22 18:19:11</sys_created_on>
+        <sys_id>75b04483c3fb5a102bbcdf3d050131f7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="customapp" source="x_744126_customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_scope>
+        <sys_update_name>sys_dictionary_override_75b04483c3fb5a102bbcdf3d050131f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-22 18:19:47</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

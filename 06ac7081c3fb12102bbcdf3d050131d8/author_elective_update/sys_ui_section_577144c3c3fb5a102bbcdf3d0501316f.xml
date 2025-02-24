@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="577144c3c3fb5a102bbcdf3d0501316f" sys_domain="global" table="x_744126_customapp_device_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-22 18:22:35</sys_created_on>
+            <sys_id>2f7144c3c3fb5a102bbcdf3d050131f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_744126_customapp_device_request" sys_domain="global" view="Default view">577144c3c3fb5a102bbcdf3d0501316f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-22 18:22:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_744126_customapp_device_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-22 18:22:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>577144c3c3fb5a102bbcdf3d0501316f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744126_customapp_device_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="customapp" source="x_744126_customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_scope>
+            <sys_update_name>sys_ui_section_577144c3c3fb5a102bbcdf3d0501316f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-22 18:22:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</application>
+        <file_path/>
+        <instance_id>b20d863cdb96f1d8f697684e139619fe</instance_id>
+        <instance_name>dev200488</instance_name>
+        <name>sys_ui_section_577144c3c3fb5a102bbcdf3d0501316f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="577144c3c3fb5a102bbcdf3d0501316f" sys_domain="global" table="x_744126_customapp_device_request" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-22 18:22:35</sys_created_on><sys_id>2f7144c3c3fb5a102bbcdf3d050131f8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_744126_customapp_device_request" sys_domain="global" view="Default view">577144c3c3fb5a102bbcdf3d0501316f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-22 18:22:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_744126_customapp_device_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-22 18:22:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>577144c3c3fb5a102bbcdf3d0501316f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_744126_customapp_device_request</sys_name><sys_overrides/><sys_package display_value="customapp" source="x_744126_customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_package><sys_policy/><sys_scope display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_scope><sys_update_name>sys_ui_section_577144c3c3fb5a102bbcdf3d0501316f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-22 18:22:34</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1944250611</payload_hash>
+        <record_name>device request</record_name>
+        <reverted_from/>
+        <source>223b0a0ac3bb56102bbcdf3d0501315b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-22 18:22:35</sys_created_on>
+        <sys_id>637184c3c3fb5a102bbcdf3d05013107</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1952ee59f020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-22 18:22:35</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e77184c31efb5a101971cde67da0ae06</update_guid>
+        <update_guid_history>e77184c31efb5a101971cde67da0ae06:1944250611</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-22 18:22:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>585a2cfba8a546b29eab3541c1f00621</sys_id>
+        <sys_metadata>577144c3c3fb5a102bbcdf3d0501316f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="customapp" source="x_744126_customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_package>
+        <sys_parent display_value="device request">d6c3cdc9c3fb12102bbcdf3d05013168</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="customapp">06ac7081c3fb12102bbcdf3d050131d8</sys_scope>
+        <sys_scope_delete display_value="">36ef4ab0d8a847f89ca5f4e0f1e7ac40</sys_scope_delete>
+        <sys_update_name>sys_ui_section_577144c3c3fb5a102bbcdf3d0501316f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_577144c3c3fb5a102bbcdf3d0501316f">637184c3c3fb5a102bbcdf3d05013107</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-22 18:22:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
